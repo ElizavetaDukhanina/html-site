@@ -1,0 +1,470 @@
+@font-face {
+  font-family: 'Belleza';
+  src: local('Belleza'),
+    url(/Belleza.ttf);
+  font-family: 'ofont';
+  src: local('ofont'),
+    url(/ofont.woff);
+}
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100%;
+  line-height: 1;
+  overflow-x: hidden;
+}
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+}
+html {
+  background-color: #FFF6F0;
+  background-position: center;
+  background-size: cover;
+}
+header {
+  background-image: url(probb.jpg);
+  width: 100%;
+  height: 650px;
+  background-repeat: no-repeat;
+  background-position: top;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+}
+.label {
+  background-image: url(333.png);
+  position: absolute;
+  top: 15px;
+  left: 550px;
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+}
+.stars {
+  background-image: url(4.png);
+  position: absolute;
+  top: 350px;
+  left: 653px;
+  width: 200px;
+  height: 60px;
+  background-repeat: no-repeat;
+}
+.butt1 {
+  background-image: url(5.png);
+  position: absolute;
+  top: 430px;
+  left: 605px;
+  width: 300px;
+  height: 55px;
+  border: #E8AF40 solid 1px;
+  font-family: "ofont";
+  font-weight: 500;
+  color: #3C1600;
+  font-size: 21px;
+  border-radius: 30px;
+  text-shadow: 0 1px 1px #f7b202;
+  cursor: pointer;
+}
+.a1 {
+  text-decoration: none;
+  font-family: "ofont";
+  color: #3C1600;
+  font-size: 21px;
+  text-shadow: 0 1px 1px #f7b202;
+}
+.hostel {
+  background-image: url(3.jpg);
+  position: absolute;
+  top: 530px;
+  left: 65px;
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+  background-size: 100% auto;
+}
+.bar {
+  background-image: url(4.jpg);
+  position: absolute;
+  top: 530px;
+  left: 430px;
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+  background-position: no-repeat;
+  background-size: 135% auto;
+}
+.service {
+  background-image: url(5.jpg);
+  position: absolute;
+  top: 530px;
+  left: 795px;
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+  background-size: 134% auto;
+}
+.panorama {
+  background-image: url(6.jpg);
+  position: absolute;
+  top: 530px;
+  left: 1160px;
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+  background-size: 100% auto;
+}
+.butt2 {
+  background-image: url(5.png);
+  position: absolute;
+  top: 610px;
+  left: 115px;
+  width: 200px;
+  height: 55px;
+  font-family: "ofont";
+  border: #E8AF40 solid 1px;
+  font-weight: 500;
+  color: #3C1600;
+  font-size: 21px;
+  border-radius: 30px;
+  text-shadow: 0 1px 1px #f7b202;
+  cursor: pointer;
+}
+.butt1:hover {
+  box-shadow: 0 0 8px #FFF6F0;
+  transform: translateY(1px);
+}
+.butt2:hover {
+  box-shadow: 0 0 8px #FFF6F0;
+  transform: translateY(1px);
+}
+.butt3:hover {
+  box-shadow: 0 0 8px #FFF6F0;
+  transform: translateY(1px);
+}
+.butt4:hover {
+  box-shadow: 0 0 8px #FFF6F0;
+  transform: translateY(1px);
+}
+.butt5:hover {
+  box-shadow: 0 0 8px #FFF6F0;
+  transform: translateY(1px);
+}
+.butt3 {
+  background-image: url(5.png);
+  position: absolute;
+  top: 610px;
+  left: 485px;
+  width: 200px;
+  height: 55px;
+  border: #E8AF40 solid 1px;
+  font-family: "ofont";
+  font-weight: 500;
+  color: #3C1600;
+  font-size: 21px;
+  border-radius: 30px;
+  text-shadow: 0 1px 1px #f7b202;
+  cursor: pointer;
+}
+.butt4 {
+  background-image: url(5.png);
+  position: absolute;
+  top: 610px;
+  left: 846px;
+  width: 200px;
+  height: 55px;
+  border: #E8AF40 solid 1px;
+  font-family: "ofont";
+  font-weight: 500;
+  color: #3C1600;
+  font-size: 21px;
+  border-radius: 30px;
+  text-shadow: 0 1px 1px #f7b202;
+  cursor: pointer;
+}
+.butt5 {
+  background-image: url(5.png);
+  position: absolute;
+  top: 610px;
+  left: 1207px;
+  width: 200px;
+  height: 55px;
+  border: #E8AF40 solid 1px;
+  font-family: "ofont";
+  font-weight: 500;
+  color: #3C1600;
+  font-size: 21px;
+  border-radius: 30px;
+  text-shadow: 0 1px 1px #f7b202;
+  cursor: pointer;
+}
+.img1 {
+  background-image: url(77.jpg);
+  position: absolute;
+  top: 820px;
+  left: 65px;
+  width: 500px;
+  height: 450px;
+  background-position: no-repeat;
+  background-size: 120% auto;
+}
+.img2 {
+  background-image: url(88.jpg);
+  position: absolute;
+  top: 810px;
+  left: 620px;
+  width: 330px;
+  height: 230px;
+  background-position: no-repeat;
+  background-size: 110% auto;
+}
+.img3 {
+  background-image: url(99.jpg);
+  position: absolute;
+  top: 1080px;
+  left: 1145px;
+  width: 330px;
+  height: 230px;
+  background-size: 110% auto;
+}
+.text {
+  float: left;
+  text-align: justify;
+  position: absolute;
+  top: 750px;
+  left: 990px;
+  text-shadow: 0 1px 1px #f7b202;
+  text-align: center;
+  width: 480px;
+  height: 500px;
+  font-size: 27px;
+  font-family: 'Belleza';
+}
+.text1 {
+  float: left;
+  text-align: justify;
+  position: absolute;
+  top: 795px;
+  left: 980px;
+  text-shadow: 0 1px 1px #f7b202;
+  width: 500px;
+  height: 500px;
+  font-size: 22px;
+  font-family: "ofont";
+}
+.block1 {
+  display: block;
+}
+.text2 {
+  float: left;
+  text-align: justify;
+  position: absolute;
+  top: 1070px;
+  left: 605px;
+  text-shadow: 0 1px 1px #f7b202;
+  width: 500px;
+  height: 500px;
+  font-family: "ofont";
+  font-size: 22px;
+}
+.img4 {
+  background-image: url(10.jpg);
+  position: absolute;
+  top: 1340px;
+  height: 300px;
+  width: 1500px;
+  background-position: center;
+  background-size: cover;
+}
+.text3 {
+  position: absolute;
+  font-size: 50px;
+  left: 35%;
+  top: 120px;
+  color: #3C1600;
+  background-color: #FFF6F0;
+  font-family: "Belleza";
+  text-shadow: 0 1px 1px #f7b202;
+  width: 380px;
+  height: 70px;
+  text-align: center;
+}
+.text4 {
+  position: absolute;
+  font-size: 22px;
+  font-family: "ofont";
+  top: 1645px;
+  color: #3C1600;
+  text-shadow: 0 1px 1px #f7b202;
+  margin: 20px;
+  width: 1450px;
+  height: 100px;
+  text-align: justify;
+}
+.text5 {
+  position: absolute;
+  font-size: 50px;
+  top: 1850px;
+  color: #3C1600;
+  font-family: "Belleza";
+  left: 680px;
+  text-shadow: 0 1px 1px #f7b202;
+}
+.block0 {
+  max-width: 100%;
+  width: 1500px;
+  min-width: 500px;
+}
+.carousel-wrapper {
+  top: 1950px;
+  height: 400px;
+  position: relative;
+  width: 800px;
+  left: 310px;
+}
+.carousel-item {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 25px 50px;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+}
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 12px;
+}
+.arrow-prev {
+  left: -30px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) rotate(135deg);
+}
+.arrow-next {
+  right: -30px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) rotate(-45deg);
+}
+.light {
+  color: white;
+}
+@media (max-width: 480px) {
+  .arrow,
+  .light .arrow {
+    background-size: 10px;
+    background-position: 10px 50%;
+  }
+}
+[id^="item"] {
+  display: none;
+}
+.item-1 {
+  z-index: 2;
+  opacity: 1;
+  background: url(cake.jpg);
+  background-size: cover;
+  width: 900px;
+  height: 400px;
+  text-shadow: 0 1px 1px #f7b202;
+  text-align: center;
+  color: #3C1600;
+  font-size: 20px;
+  font-family: 'Belleza';
+}
+.tariff {
+  position: relative;
+  top: 430px;
+}
+.item-2 {
+  background: url(wedding.jpg);
+  background-size: cover;
+  width: 900px;
+  height: 400px;
+  text-shadow: 0 1px 1px #f7b202;
+  text-align: center;
+  color: #3C1600;
+  font-size: 20px;
+  font-family: 'Belleza';
+}
+.item-3 {
+  background: url(booking.jpg);
+  background-size: cover;
+  width: 900px;
+  height: 400px;
+  text-shadow: 0 1px 1px #f7b202;
+  text-align: center;
+  color: #3C1600;
+  font-size: 20px;
+  font-family: 'Belleza';
+}
+*:target~.item-1 {
+  opacity: 0;
+}
+#item-1:target~.item-1 {
+  opacity: 1;
+}
+#item-2:target~.item-2,
+#item-3:target~.item-3 {
+  z-index: 3;
+  opacity: 1;
+}
+.bottom {
+  position: absolute;
+  top: 2600px;
+  width: 1500px;
+  height: 80px;
+  background-color: #CA9D86;
+  background-position: center;
+  background-size: cover;
+}
+.address {
+  font-family: 'Belleza';
+  text-shadow: 0 1px 1px #f7b202;
+  font-size: 25px;
+  position: absolute;
+  left: 5px;
+  padding: 12px;
+  margin: 12px;
+  color: #000000;
+  text-decoration: none;
+}
+.address:hover {
+  text-decoration: underline;
+}
+.subscribe {
+  font-family: 'Belleza';
+  text-shadow: 0 1px 1px #f7b202;
+  font-size: 25px;
+  position: absolute;
+  left: 1060px;
+  padding: 12px;
+  margin: 12px;
+}
+.vk {
+  position: absolute;
+  left: 1300px;
+  width: 43px;
+}
+.inst {
+  position: absolute;
+  left: 1357px;
+}
+.tg {
+  position: absolute;
+  left: 1422px;
+  width: 43px;
+}

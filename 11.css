@@ -1,0 +1,752 @@
+@media (min-width:2560px) {
+    header {
+      width: 100%;
+    }
+    .label {
+  
+      left: 1100px;
+    }
+    .stars {
+      left: 1200px;
+    }
+    .butt1 {
+      left: 1050px;
+      width: 500px;
+      height: 60px;
+      font-size: 40px;
+    }
+    .butt2 {
+      top: 720px;
+      width: 400px;
+      height: 57px;
+      font-size: 40px;
+    }
+    .butt3 {
+      top: 720px;
+      width: 400px;
+      height: 57px;
+      left: 730px;
+      font-size: 40px;
+    }
+    .butt4 {
+      top: 720px;
+      width: 400px;
+      height: 57px;
+      left: 1390px;
+      font-size: 40px;
+    }
+    .butt5 {
+      top: 720px;
+      width: 400px;
+      height: 57px;
+      left: 2020px;
+      font-size: 40px;
+    }
+    .hostel {
+      top: 580px;
+      width: 550px;
+      height: 330px;
+      background-repeat: no-repeat;
+    }
+    .bar {
+      top: 580px;
+      left: 680px;
+      width: 550px;
+      height: 330px;
+      background-repeat: no-repeat;
+    }
+    .service {
+      top: 580px;
+      left: 1300px;
+      width: 550px;
+      height: 330px;
+      background-repeat: no-repeat;
+    }
+    .panorama {
+      top: 580px;
+      left: 1920px;
+      width: 550px;
+      height: 330px;
+      background-repeat: no-repeat;
+    }
+    .img1 {
+      top: 1100px;
+      width: 700px;
+      height: 600px;
+    }
+    .img2 {
+      top: 1050px;
+      width: 600px;
+      height: 400px;
+      left: 800px;
+    }
+    .text {
+      top: 950px;
+      font-size: 60px;
+    }
+    .text1 {
+      left: 1500px;
+      top: 1050px;
+      font-size: 45px;
+      width: 1000px;
+    }
+    .text2 {
+      left: 800px;
+      top: 1500px;
+      font-size: 45px;
+      width: 1000px;
+    }
+    .text3 {
+      left: 1100px;
+    }
+    .img4 {
+      top: 2000px;
+      width: 100%;
+    }
+    .img3 {
+      width: 600px;
+      height: 400px;
+      left: 1900px;
+      top: 1500px;
+    }
+    .text4 {
+      top: 2330px;
+      font-size: 45px;
+      width: 2400px;
+      left: 50px;
+    }
+    .carousel-wrapper {
+      top: 2850px;
+      left: 500px;
+    }
+    .tariff {
+      top: 850px;
+      font-size: 35px;
+    }
+    .carousel-item {
+      width: 1500px;
+      height: 800px;
+    }
+    .bottom {
+      top: 3950px;
+      width: 100%;
+    }
+    .tg {
+      left: 2450px;
+    }
+    .inst {
+      left: 2380px;
+    }
+    .vk {
+      left: 2320px;
+    }
+    .subscribe {
+      left: 2050px;
+    }
+    .text5 {
+      top: 2750px;
+      font-size: 60px;
+      left: 1180px;
+    }
+  }
+  @media (device-width:768px) {
+    header {
+      width: 100%;
+    }
+    .label {
+      left: 180px;
+    }
+    .stars {
+      left: 280px;
+    }
+    .bottom {
+      top: 3300px;
+      width: 100%;
+    }
+    .address {
+      font-size: 15px;
+    }
+    .vk {
+      left: 650px;
+      width: 30px;
+      height: 30px;
+      top: 20px;
+    }
+    .inst {
+      left: 680px;
+      width: 40px;
+      height: 40px;
+      top: 15px;
+    }
+    .tg {
+      left: 720px;
+      width: 30px;
+      height: 30px;
+      top: 20px;
+    }
+    .subscribe {
+      left: 500px;
+      font-size: 15px;
+    }
+    .tariff {
+      font-size: 25px;
+    }
+    .carousel-wrapper {
+      top: 2650px;
+      left: 60px;
+      width: 600px;
+    }
+    .carousel-item {
+      width: 650px;
+    }
+    .text5 {
+      top: 2550px;
+      font-size: 60px;
+      left: 320px;
+    }
+    .text4 {
+      top: 2250px;
+      font-size: 22px;
+      width: 700px;
+      left: 20px;
+    }
+    .img4 {
+      top: 1950px;
+      width: 100%;
+    }
+    .text3 {
+      left: 190px;
+    }
+    .img3 {
+      top: 1500px;
+      width: 350px;
+      height: 250px;
+      left: 20px;
+    }
+    .text2 {
+      top: 1780px;
+      font-size: 22px;
+      width: 730px;
+      left: 20px;
+    }
+    .img2 {
+      top: 1180px;
+      width: 350px;
+      height: 250px;
+      left: 400px;
+    }
+    .text1 {
+      top: 1450px;
+      font-size: 22px;
+      left: 400px;
+      width: 350px;
+    }
+    .img1 {
+      top: 1180px;
+      width: 350px;
+      height: 300px;
+      left: 20px;
+    }
+    .text {
+      top: 1050px;
+      font-size: 80px;
+      left: 150px;
+    }
+    .hostel {
+      width: 350px;
+      height: 230px;
+      left: 20px;
+    }
+    .bar {
+      width: 350px;
+      height: 230px;
+      left: 400px;
+    }
+    .service {
+      width: 350px;
+      height: 230px;
+      top: 800px;
+      left: 20px;
+    }
+    .panorama {
+      width: 350px;
+      height: 230px;
+      top: 800px;
+      left: 400px;
+    }
+    .butt1 {
+      width: 300px;
+      font-size: 30px;
+      height: 57px;
+      left: 220px;
+    }
+    .butt2 {
+      top: 630px;
+      width: 300px;
+      font-size: 30px;
+      height: 57px;
+      left: 42px;
+    }
+    .butt3 {
+      top: 630px;
+      width: 300px;
+      font-size: 30px;
+      height: 57px;
+      left: 425px;
+    }
+    .butt4 {
+      top: 900px;
+      width: 300px;
+      font-size: 30px;
+      height: 57px;
+      left: 42px;
+    }
+    .butt5 {
+      top: 900px;
+      width: 300px;
+      font-size: 30px;
+      height: 57px;
+      left: 425px;
+    }
+  }
+  @media (device-width:1440px) {
+    .bottom {
+      width: 100%;
+    }
+    .vk {
+      left: 1290px;
+    }
+    .inst {
+      left: 1335px;
+    }
+    .tg {
+      left: 1390px;
+    }
+    .text4 {
+      left: 3px;
+      width: 1400px;
+    }
+    .bar {
+      left: 400px;
+    }
+    .service {
+      left: 740px;
+    }
+    .panorama {
+      left: 1080px;
+    }
+    .butt1 {
+      left: 570px;
+    }
+    .stars {
+      left: 620px;
+    }
+    .label {
+      left: 510px;
+    }
+    .butt3 {
+      left: 450px;
+    }
+    .butt4 {
+      left: 790px;
+    }
+    .butt5 {
+      left: 1130px;
+    }
+    .text1 {
+      width: 420px;
+    }
+    header {
+      width: 100%;
+    }
+    .img4 {
+      width: 100%;
+    }
+    .img3 {
+      left: 1120px;
+      width: 300px;
+      height: 220px;
+    }
+  }
+  @media (device-width:1024px) {
+    header {
+      width: 100%;
+    }
+    .text {
+      left: 590px;
+      top: 680px;
+      font-size: 25px;
+    }
+    .butt1 {
+      left: 350px;
+    }
+    .stars {
+      left: 400px;
+    }
+    .label {
+      left: 300px;
+    }
+    .hostel {
+      left: 15px;
+      width: 230px;
+      height: 150px;
+    }
+    .bar {
+      left: 260px;
+      width: 230px;
+      height: 150px;
+    }
+    .service {
+      width: 230px;
+      height: 150px;
+      left: 510px;
+    }
+    .panorama {
+      width: 230px;
+      height: 150px;
+      left: 760px;
+    }
+    .butt2 {
+      left: 30px;
+      top: 580px;
+    }
+    .butt3 {
+      left: 275px;
+      top: 580px;
+    }
+    .butt4 {
+      left: 525px;
+      top: 580px;
+    }
+    .butt5 {
+      left: 775px;
+      top: 580px;
+    }
+    .img1 {
+      width: 350px;
+      height: 300px;
+      top: 720px;
+    }
+    .img2 {
+      width: 250px;
+      height: 150px;
+      top: 720px;
+      left: 430px;
+    }
+    .text1 {
+      left: 690px;
+      font-size: 15px;
+      top: 720px;
+      width: 300px;
+    }
+    .img3 {
+      width: 250px;
+      height: 150px;
+      left: 740px;
+      top: 880px;
+    }
+    .text2 {
+      font-size: 15px;
+      top: 880px;
+      width: 300px;
+      left: 430px;
+    }
+    .img4 {
+      top: 1050px;
+      width: 100%;
+    }
+    .text4 {
+      width: 980px;
+      top: 1350px;
+    }
+    .text5 {
+      left: 450px;
+      top: 1600px;
+    }
+    .carousel-wrapper {
+      left: 60px;
+      top: 1700px;
+    }
+    .bottom {
+      width: 100%;
+      top: 2300px;
+    }
+    .address {
+      font-size: 20px;
+    }
+    .subscribe {
+      font-size: 20px;
+      left: 670px;
+    }
+    .vk {
+      left: 860px;
+    }
+    .inst {
+      left: 910px;
+    }
+    .tg {
+      left: 970px;
+    }
+  }
+  @media (max-width:430px) {
+    .label {
+      left: 10px;
+    }
+    .stars {
+      left: 110px;
+    }
+    .bar {
+      left: 65px;
+      top: 750px;
+    }
+    .text {
+      left: -15px;
+      top: 1400px;
+      width: 100%;
+    }
+    .img1 {
+      top: 1450px;
+      left: 20px;
+      width: 380px;
+      height: 260px;
+    }
+    .service {
+      left: 65px;
+      top: 970px;
+    }
+    .panorama {
+      left: 65px;
+      top: 1190px;
+    }
+    .butt3 {
+      left: 115px;
+      top: 830px;
+    }
+    .butt4 {
+      left: 115px;
+      top: 1050px;
+    }
+    .butt5 {
+      left: 115px;
+      top: 1250px;
+    }
+    .text1 {
+      left: 20px;
+      width: 90%;
+      font-size: 20px;
+      top: 1730px;
+    }
+    .img4 {
+      width: 100%;
+      top: 2750px;
+    }
+    .text3 {
+      left: 20px;
+      width: 90%;
+    }
+    .text4 {
+      top: 3050px;
+      font-size: 20px;
+      width: 90%;
+    }
+    .img2 {
+      top: 1950px;
+      left: 20px;
+      width: 380px;
+      height: 260px;
+    }
+    .text2 {
+      left: 20px;
+      font-size: 20px;
+      top: 2230px;
+      width: 90%;
+    }
+    .img3 {
+      top: 2470px;
+      left: 20px;
+      width: 380px;
+      height: 260px;
+    }
+    .carousel-wrapper {
+      top: 3650px;
+      left: 40px;
+      width: 100%;
+    }
+    .carousel-item {
+      width: 340px;
+      height: 280px;
+    }
+    .tariff {
+      top: 280px;
+      font-size: 15px;
+    }
+    .bottom {
+      top:
+        4100px;
+      width: 100%;
+    }
+    .text5 {
+      top: 3550px;
+      left: 150px;
+  
+    }
+    .address {
+      font-size: 10px;
+    }
+    .subscribe {
+      font-size: 10px;
+      left: 20px;
+      top: 30px;
+    }
+    .vk {
+      left: 140px;
+      top: 45px;
+      width: 25px;
+      height: 25px;
+    }
+    .inst {
+      left: 170px;
+      top: 42px;
+      width: 30px;
+      height: 30px;
+    }
+    .tg {
+      left: 210px;
+      top: 45px;
+      width: 25px;
+      height: 25px;
+    }
+    .butt1 {
+      left: 60px;
+    }
+  }
+  @media (max-width:380px) {
+    .label {
+      width: 390px;
+      left: -10px;
+    }
+    .stars {
+      left: 90px;
+    }
+    .hostel {
+      left: 40px;
+    }
+    .bar {
+      left: 40px;
+    }
+    .service {
+      left: 40px;
+    }
+    .panorama {
+      left: 40px;
+    }
+    .butt1 {
+      left: 40px;
+    }
+    .butt2 {
+      left: 90px;
+    }
+    .butt3 {
+      left: 90px;
+    }
+    .butt4 {
+      left: 90px;
+    }
+    .butt5 {
+      left: 90px;
+    }
+    .img1 {
+      width: 330px;
+    }
+    .img2 {
+      width: 330px;
+      height: 220px;
+      top: 2000px;
+    }
+    .img3 {
+      width: 330px;
+      height: 230px;
+    }
+    .text5 {
+      top: 3600px;
+      font-size: 45px;
+      left: 120px;
+    }
+    .carousel-wrapper {
+      width: 100%;
+  
+    }
+    .carousel-item {
+      width: 290px;
+      height: 250px;
+    }
+  }
+  @media(max-width:321px) {
+    .label {
+      left: -40px;
+    }
+    .stars {
+      left: 60px;
+    }
+    .butt1 {
+      left: 10px;
+    }
+    .hostel {
+      left: 10px;
+    }
+    .bar {
+      left: 10px;
+    }
+    .service {
+      left: 10px;
+    }
+    .panorama {
+      left: 10px;
+    }
+    .butt2 {
+      left: 55px;
+    }
+    .butt3 {
+      left: 55px;
+    }
+    .butt4 {
+      left: 55px;
+    }
+    .butt5 {
+      left: 55px;
+    }
+    .img1 {
+      width: 290px;
+    }
+    .img2 {
+      width: 290px;
+      height: 220px;
+      top: 2000px;
+    }
+    .img3 {
+      width: 290px;
+      height: 200px;
+      top: 2550px;
+    }
+    .img4 {
+      height: 280px;
+      top: 2780px;
+    }
+    .text5 {
+      top: 3720px;
+      left: 100px;
+    }
+    .carousel-item {
+      width: 230px;
+      height: 200px;
+    }
+    .carousel-wrapper {
+      top: 3800px;
+    }
+    .bottom {
+      top: 4200px;
+    }
+    .tariff {
+      top: 200px;
+    }
+  }
