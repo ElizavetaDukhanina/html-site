@@ -1,0 +1,560 @@
+@media (min-width:2560px) {
+    header{
+      width: 100%;
+    }
+    .label{
+      left: 1100px;
+    }
+    .stars{
+      left: 1200px;
+    }
+    .bottom{
+      top: 6600px;
+      width: 100%;
+    }
+    .tg{
+      left: 2450px;
+    }
+    .inst{
+      left: 2380px;
+    }
+    .vk{
+      left: 2320px;
+    }
+    .subscribe{
+      left: 2050px;
+    }
+    .container{
+      top: 700px;
+      width: 100%;
+    }
+    .text{
+      font-size: 70px;
+      left: 850px;
+      top: 570px;
+    }
+    .img1{
+      width: 1300px;
+      height: 800px;
+    }
+    .img2{
+      width: 1300px;
+      height: 800px;
+    }
+    .img3{
+      width: 1300px;
+      height: 800px;
+    }
+    .img4{
+      width: 1300px;
+      height: 800px;
+    }
+    .img5{
+      width: 1300px;
+      height: 800px;
+    }
+    .foto2{
+      top: 500px;
+    }
+    .foto3{
+      top: 1000px;
+    }
+    .foto4{
+      top: 1500px;
+    }
+    .foto5{
+      top: 2000px;
+    }
+    .block1{
+      margin: 0 50px 0 0 ;
+      top: 200px;
+    }
+    .block2{
+      top: 700px;
+    }
+    .block3{
+      margin: 0 50px 0 0 ;
+      top: 1200px;
+    }
+    .block4{
+      top: 1700px;
+    }
+    .block5{
+      margin: 0 50px 0 0 ;
+      top: 2200px;
+    }
+    h2{
+      font-size: 70px;
+    }
+    p{
+      font-size: 50px;
+    }
+    a{
+      font-size: 35px;
+    }
+    span{
+      font-size: 50px;
+    }
+    .butt11{
+      width: 200px;
+      height: 200px;
+    }
+  }
+  @media (max-width:1440px){
+.img1{
+  width: 750px;
+}
+.img2{
+  width: 750px;
+}
+.img3{
+  width: 750px;
+}
+.img4{
+  width: 750px;
+}
+.img5{
+  width: 750px;
+}
+.bottom{
+  top: 2700px;
+}
+.inst{
+  left: 1340px;
+}
+.tg{
+  left: 1390px;
+}
+  }
+  @media (max-width:1024px){
+.text{
+  left: 250px;
+}
+.img1{
+  width: 500px;
+  height: 250px;
+}
+.block1{
+  left: 20px;
+  width: 350px;
+}
+.block2{
+  width: 350px;
+}
+.block4{
+  width: 350px;
+}
+p{
+  font-size: 20px;
+}
+span{
+  font-size: 20px;
+  top: 10px;
+}
+h2{
+  font-size: 28px;
+}
+
+.img3{
+  width: 500px;
+  height: 250px;
+}
+.block3{
+  left: 20px;
+  width: 350px;
+}
+
+.img5{
+  width: 500px;
+  height: 250px;
+}
+.block5{
+  left: 20px;
+  width: 350px;
+}
+.butt11{
+  left: 300px;
+  right: 20px;
+}
+.img2{
+  width: 500px;
+  height: 250px;
+}
+.img4{
+  width: 500px;
+  height: 250px;
+}
+.label{
+  left: 300px;
+}
+.stars{
+  left: 400px;
+}
+
+.address{
+  font-size: 20px;
+}
+.subscribe{
+  font-size: 20px;
+  left: 670px;
+}
+.vk{
+  left: 860px;
+}
+.inst{
+  left: 910px;
+}
+.tg{
+  left: 970px;
+}
+  }
+  @media (max-width:768px){
+    .label{
+      left: 180px;
+    }
+    .stars{
+      left: 280px;
+    }
+    .text{
+      left: 100px;
+    }
+    .block1{
+      left: -80px;
+      width: 300px;
+      top: -10px;
+    }
+    .img1{
+      left: 10px;
+      width: 350px;
+    }
+    .foto1{
+      width: 400px;
+      left: 10px;
+    }
+    h2{
+      font-size: 25px;
+    }
+    p{
+      font-size: 17px;
+    }
+    span{
+      font-size: 17px;
+    }
+    .butt11{
+      left: 245px;
+    }
+    .block2{
+      left: -50px;
+      width: 300px;
+    }
+    .img2{
+      width: 350px;
+      left:-20px;
+    }
+    .img3{
+      left: 10px;
+      width: 350px;
+    }
+    .block3{
+      left: -80px;
+      width: 300px;
+      top: -10px;
+    }
+    .block4{
+      left: -50px;
+      width: 300px;
+    }
+    .img4{
+      width: 350px;
+      left:-20px;
+    }
+    .img5{
+      left: 10px;
+      width: 350px;
+    }
+    .block5{
+      left: -80px;
+      width: 300px;
+      top: -10px;
+    }
+    .bottom{
+      top: 2600px;
+      width: 100%;
+    }
+    .address{
+      font-size: 15px;
+    }
+    .vk{
+      left: 650px;
+      width: 30px;
+      height: 30px;
+      top: 20px;
+    }
+    .inst{
+      left: 680px;
+      width: 40px;
+      height: 40px;
+      top: 15px;
+    }
+    .tg{
+      left: 720px;
+      width: 30px;
+      height: 30px;
+      top: 20px;
+    }
+    .subscribe{
+      left: 500px;
+      font-size: 15px;
+    }
+  }
+  @media (max-width:430px){
+    .label{
+      left: 10px;
+    }
+    .stars{
+      left: 110px;
+    }
+    .text{
+      left: 10px;
+      width: 400px;
+      text-align: center;
+    }
+    .container{
+      display: block;
+    }
+    .block1{
+      top: -1700px;
+      left: -20px;
+    }
+    .foto2{
+      top: 100px;
+      left:40px;
+    }
+    .foto3{
+      top: 300px;
+      left:20px;
+    }
+    .block2{
+      top: -1400px;
+      left: -20px;
+    }
+    .block3{
+      top: -1100px;
+      left: -20px;
+    }
+    .foto4{
+      top: 450px;
+      left:40px;
+    }
+    .block4{
+      top: -800px;
+      left: -20px;
+    }
+    .foto5{
+      top: 570px;
+      left:20px;
+    }
+    .block5{
+      top: -500px;
+      left: -20px;
+    }
+    .bottom{
+      top: 3400px;
+    }
+    .address{
+      font-size: 10px;
+    }
+    .subscribe{
+      font-size: 10px;
+      left: 20px;
+      top: 30px;
+    }
+    .vk{
+      left: 140px;
+      top: 45px;
+      width: 25px;
+      height: 25px;
+    }
+    .inst{
+      left: 170px;
+      top: 42px;
+      width: 30px;
+      height: 30px;
+    }
+    .tg{
+      left: 210px;
+      top: 45px;
+      width: 25px;
+      height: 25px;
+    }
+  }
+  @media (max-width:380px){
+    .label{
+      width: 390px;
+      left: -10px;
+    }
+    .stars{
+      left: 90px;
+    }
+    .text{
+      width: 400px;
+      text-align: center;
+    }
+    .container{
+      display: block;
+    }
+    .foto1{
+      left: -5px;
+    }
+    .img1{
+      width: 320px;
+      height: 230px;
+    }
+    .block1{
+      top: -1700px;
+      left: -50px;
+    }
+    .img2{
+      width: 320px;
+      height: 230px;
+    }
+    .foto2{
+      top: 100px;
+      left: 30px;
+    }
+    .img3{
+      width: 320px;
+      height: 230px;
+    }
+    .img4{
+      width: 320px;
+      height: 230px;
+    }
+    .img5{
+      width: 320px;
+      height: 230px;
+    }
+    .foto3{
+      top: 300px;
+      left: 5px;
+    }
+    .block2{
+      top: -1400px;
+      left: -50px;
+    }
+    .block3{
+      top: -1100px;
+      left: -50px;
+    }
+    .foto4{
+      top: 450px;
+      left:40px;
+    }
+    .block4{
+      top: -800px;
+      left: -50px;
+    }
+    .foto5{
+      top: 570px;
+      left:5px;
+    }
+    .block5{
+      top: -500px;
+      left: -50px;
+    }
+    .bottom{
+      top: 3400px;
+    }
+  }
+  @media (max-width:321px){
+    .label{
+      left: -40px;
+    }
+    .stars{
+      left: 60px;
+    }
+    .text{
+      width: 400px;
+      left: -40px;
+      font-size: 35px;
+      text-align: center;
+    }
+    .container{
+      display: block;
+    }
+    .foto1{
+      left: -5px;
+    }
+    .img1{
+      width: 270px;
+      height: 230px;
+    }
+    .block1{
+      top: -1700px;
+      left: -70px;
+      width: 270px;
+    }
+    span{
+      font-size: 14px;
+    }
+    .butt11{
+      left: 210px;
+      top: -30px;
+    }
+    .img2{
+      width: 270px;
+      height: 230px;
+    }
+    .foto2{
+      top: 100px;
+      left:25px;
+    }
+    .img3{
+      width: 270px;
+      height: 230px;
+    }
+    .img4{
+      width: 270px;
+      height: 230px;
+    }
+    .img5{
+      width: 270px;
+      height: 230px;
+    }
+    .foto3{
+      top: 350px;
+      left: 0px;
+    }
+    .block2{
+      top: -1400px;
+      left: -70px;
+      width: 270px;
+    }
+    .block3{
+      top: -1100px;
+      left: -70px;
+      width: 270px;
+    }
+    .foto4{
+      top: 520px;
+      left:25px;
+    }
+    .block4{
+      top: -800px;
+      left: -70px;
+      width: 270px;
+    }
+    .foto5{
+      top: 650px;
+      left:0px;
+    }
+    .block5{
+      top: -500px;
+      left: -70px;
+      width: 270px;
+    }
+    .bottom{
+      top: 3500px;
+    }
+  
+  }
