@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="1.css"?>
+<note>
+    <prices>
+        <headline>Цены на услуги:</headline>
+        <services>
+            <ServiceName>
+                1. SPA-комплекс
+            </ServiceName>
+            <ServiceName>
+                2. Тренажерный зал
+            </ServiceName>
+            <ServiceName>
+                3. Бассейн
+            </ServiceName>
+            <ServiceName>
+                 4. Ночной клуб
+            </ServiceName>
+            <ServiceName>
+               5. Оранжерея
+            </ServiceName>
+            <ServiceName>
+                6. Детский клуб
+            </ServiceName>
+        </services>
+        <name> 1. SPA-комплекс: 
+            <price>
+            Стоимость посещения категории VIP от 200$, STANDART - от 100$
+        </price>
+        2. Тренажерный зал: 
+            <price>
+            Стоимость абонемента на 3 месяца - 250$, разовое занятие - 30$
+        </price>
+        3. Бассейн
+            <price>
+            Стоимость посещения аквазоны - 40$, абонемент на 4 посещения - 100$
+        </price>
+        4. Ночной клуб 
+            <price>
+            Стоимость посещения категории VIP от 200$, STANDART - от 100$
+        </price>
+        5. Оранжерея
+            <price>
+            Стоимость посещения - 25$
+        </price>
+        6. Детский клуб 
+            <price>
+            Бесплатно
+        </price>
+    </name>
+        
+    </prices>
+</note>

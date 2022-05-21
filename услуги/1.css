@@ -1,0 +1,44 @@
+
+ServiceName{
+    color: #3C1600;
+    text-shadow: 0 1px 1px #f7b202;
+    display: block  ;
+}  
+    price{
+        color:#3C1600;
+    text-shadow: 0 1px 1px #f7b202;
+    display: block;
+    text-align: center;
+    }
+note{
+    font-size:2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFF6F0;
+}
+headline{
+    font-weight: bolder;
+    display: block;
+    color: #3C1600;
+    text-shadow: 0 1px 1px #f7b202;
+    text-align: center;
+    font-size: 2.1vw;
+}
+storyline{
+    color: #3C1600;
+    text-shadow: 0 1px 1px #f7b202;
+    display: block;
+    display: block;
+}
+paragraph{
+    color: #3C1600;
+    text-shadow: 0 1px 1px #f7b202;
+    display: block;
+}
+name{
+    color: #3C1600;
+    text-shadow: 0 1px 1px #f7b202;
+    display: block;
+    text-align: center;
+}
