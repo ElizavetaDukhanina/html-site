@@ -1,0 +1,259 @@
+@font-face {
+	font-family: 'Belleza'; 
+	src: local('Belleza'),
+		url(/Belleza.ttf); 
+    font-family: 'ofont';
+    src:local('ofont'),
+    url(/ofont.ttf
+    );
+}
+*,
+*::before,
+*::after{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100%;
+  line-height: 1;
+  overflow-x: hidden;
+}
+.wrapper{
+  width: 100%;
+  height: 2000px;
+  overflow: hidden;
+}
+html{
+  background-color: #FFF6F0;
+  background-position: center;
+  background-size: cover;
+}
+header{
+  background-image: url(/probb1.jpg);
+  width: 99%;
+  height: 500px;
+  background-repeat: no-repeat;
+background-position:top;
+position: absolute; 
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-position: bottom;
+      background-size: cover;
+}
+  
+  .label{
+    background-image: url(/333.png);
+    position: absolute; top: 15px; left: 550px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .stars{
+    background-image: url(/4.png);
+    position: absolute; top: 350px; left: 653px;
+    width: 200px;
+    height: 60px;
+    background-repeat: no-repeat;
+  } 
+  .bottom{
+    position: absolute;
+    top: 1950px;
+    width: 100%;
+    height: 80px;
+    background-color: #CA9D86;
+  }
+  .address{
+    font-family: 'Belleza';
+    text-shadow: 0 1px 1px #f7b202;
+    font-size: 25px;
+    position: absolute;
+    left: 5px;
+    padding: 12px;
+    margin: 12px;
+    color: #000000;
+    text-decoration: none;
+  }
+  .address:hover{
+    text-decoration: underline;
+  }
+  .subscribe{
+    font-family: 'Belleza';
+    text-shadow: 0 1px 1px #f7b202;
+    font-size: 25px;
+    position: absolute;
+    left: 1060px;
+    padding: 12px;
+    margin: 12px;
+  }
+  .vk{
+    position: absolute;  left: 1300px;
+    width: 43px;
+  }
+  .inst{
+    position: absolute;  left: 1357px;
+  }
+  .tg{
+    position: absolute;  left: 1422px;
+    width: 43px;
+  }
+  h2{
+    position: absolute;
+    top: 530px;
+    color: #3C1600;
+    text-shadow: 0 2px 2px #f7b202;
+    font-family:"Belleza";
+    font-size: 3vw;
+    left: 550px;
+    width: 700px;
+  }
+
+  .container {  display: grid;
+    grid-template-columns: minmax(1fr 1fr 1fr 1fr 1fr 1fr 1fr 1.5fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr);
+    grid-template-rows: minmax(1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr);
+    gap: 30px 30px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      ". . . . . block2 block2 block2 block2 . . . . . ."
+      ". . block1 block1 block1 block2 block2 block2 block2 block3 block3 block3 block3 . ."
+      ". . block1 block1 block1 . block5 block5 block5 block3 block3 block3 block3 . ."
+      "block8 block8 block7 block7 block7 block7 block5 block5 block5 block6 block6 block6 block6 block4 block4"
+      "block8 block8 block7 block7 block7 block7 block5 block5 block5 block6 block6 block6 block6 block4 block4"
+      ". block9 block9 block9 block9 . block5 block5 block5 . block11 block11 block11 block4 block4"
+      ". block9 block9 block9 block9 block10 block10 block10 block10 block10 block11 block11 block11 . ."
+      ". block9 block9 block9 block9 block10 block10 block10 block10 block10 block11 block11 block11 . ."
+      ". . . . . block10 block10 block10 block10 block10 . . . . .";
+    position: relative;
+       top: 850px;
+       margin: 0 60px;
+       padding: 0 60px;
+      height: 1250px;
+       
+  }
+  .block1 { grid-area: block1; 
+  background-image: url(block1.jpg);
+  bottom: 100px;
+  margin: 35px 0;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block2 { grid-area: block2; 
+    background-image: url(block2.jpg);
+    margin-top: 20px;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block3 { grid-area: block3; 
+    background-image: url(block3.jpg);
+    bottom: 120px;
+    margin: 20px 0;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block4 { grid-area: block4; 
+    background-image: url(block4.jpg);
+    bottom: 120px;
+    margin: 0 0 130px 0;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+
+  .block5 { grid-area: block5; 
+    background-image: url(block5.jpg);
+    bottom: 80px;
+    margin: 100px 0 150px 0;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+
+  .block6 { grid-area: block6; 
+    background-image: url(block6.jpg);
+    bottom: 120px;
+    margin: 50px 0;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block7 { grid-area: block7; 
+    background-image: url(block7.jpg);
+    bottom: 120px;
+    margin-bottom: 20px;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block8 { grid-area: block8; 
+    background-image: url(block8.jpg);
+    bottom: 120px;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block9 { grid-area: block9; 
+    background-image: url(block9.jpg);
+    bottom: 90px;
+    margin-bottom: 100px;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block10 { grid-area: block10; 
+    background-image: url(block10.jpg);
+    bottom: 200px;
+    left: 20px;
+    margin-bottom: 80px;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  .block11 { grid-area: block11; 
+    background-image: url(block11.jpg);
+    bottom: 120px;
+    margin-bottom: 180px;
+    transition: 1s;
+    justify-content: space-between;
+      background-size: cover;
+  }
+  
+  
+  .container * {
+    position: relative;
+  }
+  
+  
+  .block1:hover, .block2:hover, .block3:hover, .block4:hover, .block5:hover, .block6:hover, .block7:hover, .block8:hover, .block9:hover, .block10:hover, .block11:hover{
+    transform: scale(1.5);
+z-index: 999;
+  }
+  .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11{
+    border-radius: 10px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+  .block{
+    position: absolute;
+    top: 600px;
+    width: 90%;
+    height: 200px;
+    margin: 0 60px;
+    font-size: 1.7vw;
+    font-family: 'ofont';
+    text-shadow: 0 1px 1px #f7b202;
+    text-align: justify;
+  }
+  

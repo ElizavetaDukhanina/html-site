@@ -1,0 +1,281 @@
+/*---------------------------------2560px-----------------------------------*/
+@media (min-width:2560px) {
+    
+  
+    .label{
+      
+      left: 1100px;
+    }
+    .stars{
+      left: 1200px;
+    }
+    .bottom{
+      top: 2200px;
+      width: 99%;
+    }
+    .tg{
+      left: 2450px;
+    }
+    .inst{
+      left: 2380px;
+    }
+    .vk{
+      left: 2320px;
+    }
+    .subscribe{
+      left: 2050px;
+    }
+    h2{
+      top: 500px;
+      left: 1000px;
+    }
+    .container{
+      top: 1000px;
+    }
+  }
+
+/*---------------------------------1440px-----------------------------------*/
+@media (device-width:1440px){
+  .vk{
+    left: 1290px;
+  }
+  .inst{
+    left: 1335px;
+  }
+  .tg{
+    left: 1390px;
+  }
+  .stars{
+    left: 620px;
+  }
+  .label{
+    left: 510px;
+  }
+ .bottom{
+   width: 100%;
+ }
+}
+/*---------------------------------1024px-----------------------------------*/
+@media (device-width:1024px){
+  header{
+    width: 100%;
+  }
+  .stars{
+    left: 400px;
+  }
+  .label{
+    left: 300px;
+  }
+  .bottom{
+    width: 100%;
+    top: 1800px;
+  }
+  .address{
+    font-size: 20px;
+  }
+  .subscribe{
+    font-size: 20px;
+    left: 670px;
+  }
+  .vk{
+    left: 860px;
+  }
+  .inst{
+    left: 910px;
+  }
+  .tg{
+    left: 970px;
+  }
+  h2{
+    left: 380px;
+  }
+  .block{
+    font-size: 25px;
+  }
+  .block9{
+    height: 200px;
+  }
+  .block10{
+    height: 220px;
+  }
+  .block11{
+    height: 220px;
+  }
+  .container{
+    height: 1000px;
+  }
+  .block2{
+    height: 200px;
+  }
+  .block5{
+    height: 300px;
+  }
+  .wrapper{
+    height: 1800px;
+  }
+}
+
+/*---------------------------------768px-----------------------------------*/
+@media (device-width:768px){
+  header{
+    width: 100%;
+  }
+  .label{
+left: 180px;
+  }
+  .stars{
+    left: 280px;
+  }
+  .bottom{
+    top: 1500px;
+    width: 100%;
+  }
+  .address{
+    font-size: 15px;
+  }
+  .vk{
+    left: 650px;
+    width: 30px;
+    height: 30px;
+    top: 20px;
+  }
+  .inst{
+    left: 680px;
+    width: 40px;
+    height: 40px;
+    top: 15px;
+  }
+  .tg{
+    left: 720px;
+    width: 30px;
+    height: 30px;
+    top: 20px;
+  }
+  .subscribe{
+    left: 500px;
+    font-size: 15px;
+  }
+  h2{
+    left: 270px;
+    font-size: 30px;
+  }
+  .block{
+    width: 650px;
+    font-size: 20px;
+  }
+  .container{
+    height: 800px;
+    width: 750px;
+    left: -50px;
+  }
+  .wrapper{
+    height: 1500px;
+  }
+}
+/*---------------------------------430px-----------------------------------*/
+@media (max-width:430px){
+  .label{
+    left: 10px;
+  }
+  .stars{
+    left: 110px;
+  }
+  .bottom{
+    top:
+      1500px;
+      width: 100%;
+  }
+  .address{
+    font-size: 10px;
+  }
+  .subscribe{
+    font-size: 10px;
+    left: 20px;
+    top: 30px;
+  }
+  .vk{
+    left: 140px;
+    top: 45px;
+    width: 25px;
+    height: 25px;
+  }
+  .inst{
+    left: 170px;
+    top: 42px;
+    width: 30px;
+    height: 30px;
+  }
+  .tg{
+    left: 210px;
+    top: 45px;
+    width: 25px;
+    height: 25px;
+  }
+  h2{
+    left: 120px;
+    font-size: 25px;
+  }
+  .block{
+    left: -40px;
+    font-size: 15px;
+  }
+  .container{
+    left: -60px;
+    margin: 0 16px;
+    gap: 7px 28px;
+    height: 840px;
+  }
+  .wrapper{
+    height: 1500px;
+  }
+
+}
+/*---------------------------------380px-----------------------------------*/
+@media (max-width:380px){
+  .label{
+    width: 390px;
+    left: -10px;
+  }
+  .stars{
+    left: 90px;
+  }
+  h2{
+    left: 90px;
+  }
+  .container{
+    gap: 7px 24.5px;
+    height: 744px;
+  }
+  .block2{
+    top: -40px;
+  }
+  .bottom{
+    top: 1400px;
+  }
+  .wrapper{
+    height: 1400px;
+  }
+}
+/*---------------------------------321px-----------------------------------*/
+@media(max-width:321px){
+  .label{
+    left: -40px;
+  }
+  .stars{
+    left: 60px;
+  }
+  .container{
+    gap: 7px 20.5px;
+    height: 613px;
+    margin: 53px 16px;
+  }
+  .bottom{
+    top: 1350px;
+  }
+  .wrapper{
+    height: 1350px;
+  }
+  h2{
+    left: 60px;
+  }
+}
